@@ -1,0 +1,30 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content:first baseline;
+    color: aliceblue;
+    background: linear-gradient(to right, #2f088b, #000000)
+    
+}
+h1{
+    margin-top: 2px;
+
+    text-align: center;
+    
+}
+.content{
+    width: 40%;
+    margin: 0 auto;
+}
+canvas{
+    max-width: 100%;
+    color: aliceblue;
+}
+@media(max-width: 400px){
+    .loguear{
+        width: 90%;
+    }
+    
+}

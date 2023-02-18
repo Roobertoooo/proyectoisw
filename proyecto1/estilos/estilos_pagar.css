@@ -1,0 +1,12 @@
+body{
+    background-image: url(./gracias.webp);
+    background-repeat: no-repeat;
+    background-position: 150px 3px;
+    background-size:85%;
+}
+@media(max-width: 400px){
+    .loguear{
+        width: 90%;
+    }
+    
+}
